@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FacePulse</string>
+    <string name="status_scanning">Yuz tekshirilmoqda…</string>
+    <string name="status_camera_off">Kamera o\'chirilgan</string>
+    <string name="status_model_missing">mobile_face_net.tflite topilmadi</string>
+    <string name="status_reference_missing">my_face.jpg etalon topilmadi</string>
+    <string name="btn_camera_on">Kamerani yoqish</string>
+    <string name="btn_camera_off">Kamerani o\'chirish</string>
+    <string name="btn_grant_permission">Kameraga ruxsat berish</string>
+    <string name="btn_open_settings">Sozlamalarni ochish</string>
+    <string name="btn_retry">Qayta urinish</string>
+    <string name="btn_back_to_scan">Qayta tekshirish</string>
+    <string name="dialog_not_recognized_title">Aniqlanmadi</string>
+    <string name="dialog_not_recognized_message">Kameradagi yuz etalon rasm bilan mos kelmadi. Yaxshi yorug\'likda kameraga to\'g\'ri qarab qayta urinib ko\'ring.</string>
+    <string name="home_welcome_title">Xush kelibsiz, Muhammad aka</string>
+    <string name="home_verified_badge">Shaxs tasdiqlandi</string>
+    <string name="home_similarity_label">O\'xshashlik darajasi</string>
+    <string name="home_engine_label">Tekshiruv usuli</string>
+    <string name="home_engine_value">ML Kit + MobileFaceNet</string>
+    <string name="permission_needed_title">Kamera ruxsati kerak</string>
+    <string name="permission_needed_desc">Shaxsni yuz orqali tekshirish uchun old kameraga ruxsat bering.</string>
+    <string name="model_missing_hint">Yuz embeddingi uchun app/src/main/assets/mobile_face_net.tflite faylini joylashtiring. Ungacha ilova xavfsiz kutish rejimida ishlaydi.</string>
+    <string name="reference_missing_hint">Etalon yuz uchun app/src/main/assets/my_face.jpg faylida aniq yuz ko\'ringan rasm bo\'lishi kerak.</string>
+    <string name="similarity_label">O\'xshashlik</string>
+    <string name="reference_ready">Etalon tayyor</string>
+    <string name="reference_loading">Etalon yuklanmoqda…</string>
+    <string name="cd_verified_icon">Tasdiqlangan shaxs belgisi</string>
+    <string name="cd_camera_on_icon">Kamerani yoqish</string>
+    <string name="cd_camera_off_icon">Kamerani o\'chirish</string>
+</resources>

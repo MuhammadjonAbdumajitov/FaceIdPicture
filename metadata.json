@@ -1,0 +1,6 @@
+{
+  "name": "FacePulse",
+  "description": "Real-time on-device Android face detection app built with Jetpack Compose, CameraX, and ML Kit.",
+  "requestFramePermissions": ["CAMERA"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
